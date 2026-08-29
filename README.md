@@ -1,13 +1,13 @@
-# Halo, gua Faisal 👋
+# Hi, I'm Faisal 👋
 
-Gua full-stack developer asal Indonesia. Suka ngulik website, urus VPS Linux, sama buat bot otomatisasi/trading.
+Full-stack developer from Indonesia. I build web apps, manage Linux VPS nodes, and write automation/trading bots.
 
 ---
 
-### 💻 Yang Lagi Gua Urus
-- **MÖLSCNT Store** — Toko parfum (Next.js 14 + SQLite + Cloudflare Workers + Biteship).
-- **Trading & Liquidity Agent** — Bot otomatis untuk liquidity provider di Solana (Meteora DLMM) dan trading engine Bybit.
-- **Server & VPS** — Urus Nginx, PM2, Docker, dan routing domain/email via Cloudflare.
+### 💻 What I'm working on
+- **MÖLSCNT Store** — E-commerce store (Next.js 14 + SQLite + Cloudflare Workers + Biteship).
+- **Trading & Liquidity Agents** — Automated liquidity provider bot for Solana (Meteora DLMM) and Bybit trading engine.
+- **Infrastructure & VPS** — Managing Nginx, PM2, Docker, and routing domains/emails via Cloudflare.
 
 ---
 
